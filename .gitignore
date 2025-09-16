@@ -1,0 +1,2 @@
+# Don't include .env, which might have sensitive information
+.env
