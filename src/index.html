@@ -1,20 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Fragments UI</title>
-    <link rel="stylesheet" href="https://unpkg.com/bamboo.css" />
-    <script type="module" src="./app.js"></script>
-  </head>
-  <body>
-    <h1>Fragments UI</h1>
-    <section>
-      <nav>
-        <button id="login">Login</button>
-      </nav>
-    </section>
-    <section hidden id="user">
-      <h2>Hello <span class="username"></span>!</h2>
-    </section>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <title>Fragments UI</title>
+</head>
+<body>
+  <h1>Fragments UI</h1>
+
+  <button id="login">Login</button>
+  <button id="logout" style="display:none;">Logout</button>
+
+  <h3 id="user"></h3>
+
+  <hr>
+
+  <h2>Create Fragment</h2>
+  <select id="type">
+    <option value="text/plain">Text</option>
+    <option value="application/json">JSON</option>
+    <option value="text/markdown">Markdown (.md)</option>
+  </select>
+
+  <br><br>
+
+  <textarea id="content" rows="5" cols="60" placeholder="Enter content..."></textarea><br>
+  <button id="create">Create Fragment</button>
+
+  <hr>
+
+  <h2>Your Fragments</h2>
+  <button id="refresh">Load Fragments</button>
+  <ul id="list"></ul>
+
+  <script type="module" src="./app.js"></script>
+</body>
 </html>

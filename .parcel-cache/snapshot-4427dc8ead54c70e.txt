@@ -1,7 +1,7 @@
-7223
+7186
 121C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\chalk\source\index.js134024567182527566 0
 124C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\auxclick.js134024569192286314 0
-77C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\.env134024583001944657 0
+77C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\.env134072791628739797 0
 133C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\u2f.js134024567230656302 0
 85C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\package.json134024663422449718 0
 139C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\_\_assert_this_initialized134024567213367142 1
@@ -23,14 +23,14 @@
 120C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\namer-default\package.json134024569186748690 0
 106C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\browserslist\LICENSE134024569184696767 0
 127C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\shadowdomv1.js134024569208477163 0
-104C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\.package-lock.json134024622397073063 0
+104C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\.package-lock.json134072786469212479 0
 102C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\is-glob\index.js134024569185157419 0
 95C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\commander134024569189165749 1
 126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\utils\src\dependency-location.js134024569189818470 0
 129C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\dotenv-expand\node_modules\dotenv\config.js134024581986351577 0
 125C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\semver\functions\patch.js134024567202443471 0
 106C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\packager-raw134024569186485487 1
-90C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\package-lock.json134024622396081634 0
+90C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\package-lock.json134072786468777330 0
 145C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\urlsearchparams.js134024567230850610 0
 107C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\dist\lib134024569208927192 1
 108C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\get-port134024567197635474 1
@@ -54,8 +54,9 @@
 152C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\keyboardevent-charcode.js134024567223618058 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\PS.js134024569207587159 0
 102C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\term-size\vendor134024569186931108 1
-77C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\dist134024662674933982 1
-86C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app134024570244399692 1
+89C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\src\fragments.js134072848937893226 0
+77C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\dist134072848370556600 1
+86C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app134024665256500016 1
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\LY.js134024569205567182 0
 125C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\utils\src\svgo.js134024567206950535 0
 113C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\reporter-dev-server134024569190376886 1
@@ -69,18 +70,18 @@
 144C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\watcher\src\macos\FSEventsBackend.hh134024567202373527 0
 94C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\get-port134024569186748690 1
 128C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\esm\_dispose.js134024567210354762 0
-76C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\src134024657479521984 1
+76C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\src134072850278761398 1
 127C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\node-addon-api\package.json134024567201511696 0
 116C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_ts_param.mjs134024569204107161 0
 131C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\lmdb\dependencies\lz4\lib\lz4.c134024567203242442 0
 104C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\msgpackr\pack.d.ts134024569193005750 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\LU.js134024569205537342 0
 106C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\jwt-decode\build\cjs134024558096820847 1
-83C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\src\app.js134024657803576632 0
+83C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\src\app.js134072850509266034 0
 139C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\error-overlay\src\components\NavigationBar.js134024569189881654 0
 124C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\globals\node_modules\type-fest\license134024569184856911 0
 127C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\node-gyp-build-optional-packages\index.js134024569186271821 0
-85C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules134024622394525032 1
+85C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules134072786468107346 1
 110C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\core\postinstall.js134024569188497252 0
 131C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\media-fragments.js134024569205827173 0
 83C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\src\api.js134024662670148496 0
@@ -91,11 +92,12 @@
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\commander\lib\suggestSimilar.js134024569188377270 0
 129C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\watcher\src\Signal.hh134024567203162457 0
 133C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\css-logical-props.js134024569197146691 0
-84C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\src\auth.js134024577895135077 0
+84C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\src\auth.js134072850054366679 0
 132C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\dotenv-expand\node_modules\dotenv\README-es.md134024581986511472 0
+82C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\src\ui.js134072848475865328 0
 126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\core\src\worker.js134024567213387153 0
 147C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\wasm-multi-memory.js134024567231506296 0
-87C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\src\index.html134024587181166153 0
+87C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\src\index.html134072848352754704 0
 141C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\core\lib\requests\EntryRequest.js134024567206940519 0
 135C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\proxy.js134024567227397859 0
 133C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\createimagebitmap.js134024569195445031 0
@@ -127,7 +129,7 @@
 92C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@lezer134024569175303174 1
 106C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\fill-range\README.md134024569186382859 0
 116C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\msgpackr\dist\index.min.js.map134024569192085331 0
-91C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@lmdb134024622394570115 1
+91C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@lmdb134072786468147336 1
 101C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\semver\index.js134024569189818470 0
 124C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\lmdb\node_modules\node-addon-api\tools134024569190131670 1
 149C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt134024569196520835 0
@@ -141,7 +143,7 @@
 95C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@mischnic134024569175123048 1
 129C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\workers\test\integration\workerfarm134024569191482162 1
 130C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\regenerator-runtime\runtime.js134024567183423562 0
-103C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@msgpackr-extract134024622394570115 1
+103C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@msgpackr-extract134072786468147336 1
 96C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\picocolors134024569187446395 1
 135C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\msgpackr\dist\index-no-eval.cjs.map134024567203042552 0
 154C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json134024569198627191 0
@@ -161,15 +163,14 @@
 145C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\insert-adjacent.js134024567222873954 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\codeframe\test\fixtures134024569185374425 1
 137C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\react-refresh\cjs\react-refresh-babel.production.js134024569186708712 0
-93C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel134024622394570115 1
+93C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel134072786468137339 1
 152C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\esm\_class_static_private_method_get.js134024567209903160 0
 105C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\safe-buffer\LICENSE134024563200681685 0
 109C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\picocolors\package.json134024569186261828 0
 146C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\.parcelrc134024569189165749 0
-90C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc134024622394525032 1
+90C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc134072786468127354 1
 131C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\_\_write_only_error\package.json134024569202097211 0
 150C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\globals\node_modules\type-fest\source\union-to-intersection.d.ts134024569191704839 0
-121C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\pre-merge-commit.sample134024567092576777 0
 91C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@zeit134024581992558473 1
 148C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js134024567200354060 0
 103C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\is-glob\README.md134024569186402893 0
@@ -225,7 +226,6 @@
 111C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\markdown-ansi\lib134024569185157419 1
 113C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\utils\src\config.js134024569188783540 0
 122C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\tls1-3.js134024569209567160 0
-116C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\pre-receive.sample134024567092908019 0
 131C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\parcel\node_modules\chalk\source\templates.js134024569186016460 0
 120C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\graph\lib\AdjacencyList.js134024569186651147 0
 120C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\msgpackr\SECURITY.md134024567205492971 0
@@ -303,7 +303,6 @@
 120C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\_\index134024567219675035 1
 100C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\ordered-binary134024569189085753 1
 132C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\getcomputedstyle.js134024569203017186 0
-115C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\pre-commit.sample134024567092494738 0
 92C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\parcel134024569188117892 1
 142C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c134024569193354134 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\BR.js134024569193665168 0
@@ -521,16 +520,16 @@
 115C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\nullthrows\nullthrows.js.flow134024569186850955 0
 133C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\reporter-cli\src\utils.js134024567201437580 0
 135C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\requestidlecallback.js134024569207877159 0
-131C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\node-gyp-build-optional-packages\package.json134024569187194992 0
-117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\MG.js134024569205917191 0
-126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\node-releases\package.json134024567184557371 0
-111C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_set.mjs134024569203807178 0
-126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\utils\src\index.js134024567205361625 0
-111C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\semver\functions\minor.js134024569191067066 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\utility-types\dist\index.js.map134024569188387266 0
 133C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\wasm-multi-memory.js134024569210457173 0
 125C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\utils\src\hash.js134024567203232466 0
 135C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c134024569193165733 0
+117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\MG.js134024569205917191 0
+131C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\node-gyp-build-optional-packages\package.json134024569187194992 0
+126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\node-releases\package.json134024567184557371 0
+111C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_set.mjs134024569203807178 0
+126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\utils\src\index.js134024567205361625 0
+111C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\semver\functions\minor.js134024569191067066 0
 110C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\packager-svg\src134024569185957557 1
 139C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\registerprotocolhandler.js134024569207767177 0
 113C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\rust\src\browser.js134024569186641173 0
@@ -634,7 +633,6 @@
 132C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\publickeypinning.js134024569207607179 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\ZA.js134024569211127160 0
 112C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\optimizer-html\src134024569185967600 1
-102C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\d0134024567248136211 1
 103C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\has-flag\index.js134024563201373205 0
 105C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\tslib\tslib.es6.mjs134024569188529505 0
 142C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_class_apply_descriptor_destructure.mjs134024569202517227 0
@@ -671,7 +669,7 @@
 119C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\dist\lib\statuses.js134024569208807211 0
 132C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\wasm-multi-value.js134024569210467156 0
 143C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c134024569193632051 0
-102C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\dist\fragments-ui.0f77c784.js134024662674828788 0
+102C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\dist\fragments-ui.0f77c784.js134072788744231365 0
 113C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\to-regex-range\package.json134024569184576835 0
 141C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\_\_class_private_field_update\package.json134024569198637182 0
 104C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\jwt-decode\LICENSE134024558096660843 0
@@ -710,10 +708,10 @@
 112C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\term-size\vendor\.DS_Store134024569184876911 0
 119C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\graph\src\ContentGraph.js134024569188924318 0
 123C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\picture.js134024569207277184 0
-142C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\currentcolor.js134024567215849264 0
-117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\ME.js134024569205807165 0
 126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\types-internal\lib134024567202622042 1
 104C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\is-extglob\LICENSE134024569185772073 0
+142C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\currentcolor.js134024567215849264 0
+117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\ME.js134024569205807165 0
 105C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\json5\lib\util.d.ts134024569190121635 0
 129C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\semver\functions\satisfies.js134024567203277374 0
 125C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\baseline-browser-mapping\dist\index.cjs134024569185671264 0
@@ -933,7 +931,6 @@
 126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\ogg-vorbis.js134024569206757183 0
 116C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\core\src\Validation.js134024569197136684 0
 109C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\semver\classes\range.js134024569191522149 0
-111C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\update.sample134024567093388583 0
 119C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\dotenv-expand\node_modules\dotenv134024581986668005 1
 110C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\semver\classes\semver.js134024569191937495 0
 112C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\utils\.eslintrc.js134024569186748690 0
@@ -1253,7 +1250,6 @@
 109C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\oidc-client-ts\dist\esm134024558098723895 1
 131C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\_\_read_only_error134024567217634779 1
 129C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\localecompare.js134024569205467166 0
-96C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\refs134024567093581135 1
 111C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\oidc-client-ts\dist\types134024558099273403 1
 146C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs134024569202957208 0
 109C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\nullthrows\package.json134024569184726977 0
@@ -1419,15 +1415,15 @@
 107C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\escalade\package.json134024569186551182 0
 120C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\node-addon-api\tools\conversion.js134024569189476562 0
 126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\reporter-dev-server\package.json134024569190406901 0
-105C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\lmdb\dict\dict2.txt134024569196484015 0
-106C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\msgpackr-extract\bin134024569186382859 1
-115C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\lmdb\dependencies\lz4\LICENSE134024569189176403 0
 125C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\clipboard.js134024569194913338 0
 135C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\cjs\_check_private_redeclaration.cjs134024569189165749 0
 131C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\watcher\src\windows\WindowsBackend.cc134024569189881654 0
 139C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\reporter-cli\src\CLIReporter.js134024567200436599 0
 105C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\dotenv\CHANGELOG.md134024581989043117 0
 138C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\msgpackr-extract\node_modules\detect-libc\index.d.ts134024569188055777 0
+106C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\msgpackr-extract\bin134024569186382859 1
+105C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\lmdb\dict\dict2.txt134024569196484015 0
+115C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\lmdb\dependencies\lz4\LICENSE134024569189176403 0
 126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\diagnostic\LICENSE134024567191494323 0
 151C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\src\_class_private_field_loose_key.mjs134024567220698462 0
 144C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\css-namespaces.js134024567213559620 0
@@ -1817,7 +1813,6 @@
 122C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\baseline-browser-mapping\LICENSE.txt134024569188539530 0
 131C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\regions\ZM.js134024567232654306 0
 140C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\workers\test\integration\workerfarm\console.js134024569188612733 0
-102C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\a9134024567247926246 1
 143C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c134024569193520602 0
 120C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\color-name\README.md134024567183121457 0
 129C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\link-icon-svg.js134024569205307238 0
@@ -1973,7 +1968,6 @@
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\AW.js134024569192454445 0
 131C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\regions\SC.js134024567228419708 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\jwt-decode\build\cjs\index.d.ts134024558096820847 0
-104C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\info\exclude134024567093471161 0
 137C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_iterable_to_array_limit_loose.mjs134024569203537170 0
 114C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\electron-to-chromium\LICENSE134024569184599410 0
 127C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\agents.js134024567199030807 0
@@ -1986,7 +1980,6 @@
 104C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\is-number\index.js134024569185113021 0
 137C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose134024569199157218 1
 128C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\ordered-binary\tests\test.js134024567184777352 0
-141C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\b9\e66b655379ee9261534541ad10de4808da66f2134024567248146232 0
 150C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\wasm-reference-types.js134024567231594179 0
 104C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\json5\lib\index.js134024569186506536 0
 146C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\css-first-letter.js134024567211907578 0
@@ -2297,7 +2290,6 @@
 119C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\lmdb\src\cursor.cpp134024567207331711 0
 124C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\passkeys.js134024569207067181 0
 114C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\chrome-trace-event\README.md134024569186462875 0
-101C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\refs\tags134024567093581135 1
 134C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\speech-recognition.js134024569208667218 0
 118C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\is-number\index.js134024567182427466 0
 103C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data134024569201927173 1
@@ -2348,7 +2340,6 @@
 142C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\core\test\fixtures\invalid-engines134024567214239649 1
 136C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\types-internal\src\unsafe.js134024567199901095 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\AO.js134024569191077027 0
-102C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\4a134024567247866850 1
 151C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\_\_class_static_private_field_spec_get134024567215115270 1
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\AS.js134024569191532143 0
 136C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\diagnostic\test\JSONCodeHighlights.test.js134024569186911110 0
@@ -2357,11 +2348,10 @@
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\AT.js134024569191734853 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\AZ.js134024569192544442 0
 115C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\esm\_to_array.js134024569196684424 0
-144C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\watcher\src\macos\FSEventsBackend.cc134024567190091794 0
-117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\BA.js134024569192584469 0
-91C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git134024657386383210 1
 101C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\workers134024569192604468 1
 147C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\error-overlay\src\containers\RuntimeErrorContainer.js134024569190201655 0
+144C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\watcher\src\macos\FSEventsBackend.cc134024567190091794 0
+117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\BA.js134024569192584469 0
 110C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\core-win32-x64-msvc134024569185752086 1
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\BB.js134024569192885682 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\BD.js134024569192935719 0
@@ -2522,7 +2512,6 @@
 135C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\regions\alt-ww.js134024567201721925 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\NP.js134024569206567190 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\NR.js134024569206597198 0
-115C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\commit-msg.sample134024567092109645 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\OM.js134024569206817161 0
 115C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\.bin\baseline-browser-mapping134024569211507165 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\regions\PA.js134024569206957176 0
@@ -2992,8 +2981,8 @@
 130C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\core\lib\Dependency.js134024567206353280 0
 141C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\sql-storage.js134024567229110746 0
 135C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\es6-string-includes.js134024569201797153 0
-135C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_possible_constructor_return.mjs134024569203777173 0
 127C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\eventsource.js134024569201857182 0
+135C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_possible_constructor_return.mjs134024569203777173 0
 130C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\feature-policy.js134024569201897282 0
 132C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\_\_get\package.json134024567215972170 0
 163C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt134024567211358279 0
@@ -3234,7 +3223,6 @@
 99C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\cache134024569189206546 1
 110C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\watcher\src\unix134024569189125768 1
 122C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\core\test\fixtures\bundle.js134024569191959409 0
-123C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\sendemail-validate.sample134024567093218551 0
 130C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\caniuse-lite\data\features\scrollintoview.js134024569208237193 0
 138C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\error-overlay\src\containers\RuntimeError.js134024569190131670 0
 118C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\term-size\index.js134024567187530404 0
@@ -3497,8 +3485,6 @@
 127C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\_\_to_primitive\package.json134024569201597173 0
 115C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\scripts\build.js134024569197076675 0
 134C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\_\_to_consumable_array\package.json134024569201547178 0
-123C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_read_only_error.mjs134024569203787170 0
-106C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\packager-css134024569186641173 1
 146C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\transformer-js\src\esmodule-helpers.js134024567189628351 0
 154C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\workers\test\integration\workerfarm\ipc-pid.js134024567201624480 0
 116C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\lmdb\index.d.cts134024567207887013 0
@@ -3606,12 +3592,13 @@
 119C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\utils\test\config.test.js134024569189075743 0
 120C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\utils\src\shared-buffer.js134024569193320832 0
 116C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_identity.mjs134024569203317181 0
-141C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\84\2e698b93bd98b18909f87e61fccbdf7d682be9134024567247936255 0
 122C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_inherits_loose.mjs134024569203347184 0
 135C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_initializer_define_property.mjs134024569203377194 0
 132C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_interop_require_wildcard.mjs134024569203477191 0
 133C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_object_without_properties.mjs134024569203717177 0
 127C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\utils\src\generateBuildMetrics.js134024569190001644 0
+123C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_read_only_error.mjs134024569203787170 0
+106C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\packager-css134024569186641173 1
 124C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_set_prototype_of.mjs134024569203797217 0
 123C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_sliced_to_array.mjs134024569203847195 0
 129C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs134024569203837170 0
@@ -4067,7 +4054,6 @@
 115C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\workers\lib\Handle.js134024569189828552 0
 118C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\events\src134024567200913781 1
 114C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\workers\lib\index.js134024569190041682 0
-103C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\description134024567091907012 0
 113C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\workers\lib\threads134024569191662136 1
 147C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\error-overlay\src\utils\getPrettyURL.js134024567188258838 0
 120C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\core\lib\Transformation.js134024569196876645 0
@@ -4101,7 +4087,6 @@
 139C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\transformer-postcss\src\PostCSSTransformer.js134024569188347270 0
 139C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\vibration.js134024567231176402 0
 116C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\watcher\src\Backend.cc134024569185374425 0
-123C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\fsmonitor-watchman.sample134024567092239456 0
 150C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\internationalization.js134024567222924199 0
 116C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\watcher\src\Backend.hh134024569190231658 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\watcher\src\Debounce.hh134024569190835731 0
@@ -4446,7 +4431,6 @@
 126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\profiler\lib\SamplingProfiler.js134024569187058818 0
 142C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\svg-fragment.js134024567229491648 0
 142C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\runtime-js\src\helpers\browser\preload-loader.js134024569191452151 0
-141C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\a9\7d1a919d43be0a2eae28a3eed1e54d03a05d7e134024567247896255 0
 121C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\runtime-js\lib\JSRuntime.js134024569190917046 0
 124C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\runtime-js\lib\helpers\browser134024569191482162 1
 131C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\runtime-js\lib\helpers\cacheLoader.js134024569186392895 0
@@ -4742,7 +4726,7 @@
 142C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\core\src\requests\DevDepRequest.js134024567206684585 0
 145C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\getrandomvalues.js134024567220500321 0
 120C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\feature-flags\lib\types.js134024569187200059 0
-106C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\dist\fragments-ui.0f77c784.js.map134024662674903947 0
+106C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\dist\fragments-ui.0f77c784.js.map134072788744321848 0
 130C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\core\lib\Validation.js134024567213096161 0
 104C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\events\lib134024569188627180 1
 140C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\diagnostic\test\markdown.test.js134024567199469818 0
@@ -4810,7 +4794,6 @@
 130C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\type-fest\ts41\camel-case.d.ts134024567186638118 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\core\test\utils.test.js134024569197096672 0
 134C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\core\test\fixtures\common-targets-ignore134024569197430687 1
-102C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\FETCH_HEAD134024662095095829 0
 137C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\core\test\fixtures\config-extends-not-found134024569189506553 1
 124C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\term-size\vendor\windows134024567185894954 1
 129C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\node_modules\@parcel\core\test\fixtures\config-malformed134024569186241693 1
@@ -5146,7 +5129,6 @@
 138C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\type-fest\source\conditional-pick.d.ts134024567188398845 0
 129C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\type-fest\source\entries.d.ts134024567190291791 0
 127C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\type-fest\source\entry.d.ts134024567191145140 0
-97C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\index134024567248186222 0
 140C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\type-fest\source\fixed-length-array.d.ts134024567197725808 0
 144C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\esm\_class_private_field_set.js134024567209456324 0
 115C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\lmdb\caching.js134024567209903160 0
@@ -5232,7 +5214,6 @@
 122C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\picomatch\lib\parse.js134024567183714498 0
 118C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\picocolors\LICENSE134024567182008442 0
 126C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\picocolors\picocolors.d.ts134024567184327357 0
-141C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\4a\bc8edf55c0866b988d68ba79163661d952091d134024567247796241 0
 150C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\css-at-counter-style.js134024567210155790 0
 124C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\picocolors\picocolors.js134024567182767464 0
 149C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\_\_class_static_private_field_update134024567215222184 1
@@ -5432,7 +5413,6 @@
 150C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc134024567208236833 0
 147C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h134024567209063594 0
 149C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile134024567200126649 0
-99C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects134024662096265792 1
 146C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c134024567205619955 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\base-x\LICENSE.md134024567186324767 0
 151C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c134024567203916360 0
@@ -5843,7 +5823,6 @@
 147C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\chacha20-poly1305.js134024567207853666 0
 146C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\childnode-remove.js134024567207967020 0
 161C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js134024567208511900 0
-104C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\pack134024567093610679 1
 134C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\colr.js134024567209139695 0
 153C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\comparedocumentposition.js134024567209203565 0
 143C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\caniuse-lite\data\features\console-basic.js134024567209235138 0
@@ -6239,7 +6218,6 @@
 124C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\core-win32-x64-msvc134024567182977485 1
 143C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\workers\src\process\ProcessChild.js134024567202785891 0
 112C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\counter134024567182987523 1
-96C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\HEAD134024567093591087 0
 146C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\package-manager\test\fixtures\packages134024567201933281 1
 112C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers134024567219755022 1
 110C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\types134024567185082471 1
@@ -6548,7 +6526,6 @@
 137C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\cjs\_sliced_to_array.cjs134024567206190985 0
 127C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\cjs\_throw.cjs134024567206383277 0
 130C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\cjs\_to_array.cjs134024567206423283 0
-102C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\84134024567247976289 1
 121C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\cache\LICENSE134024567185313769 0
 141C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\core\test\fixtures\common-targets134024567213768773 1
 141C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@swc\helpers\cjs\_to_consumable_array.cjs134024567206465758 0
@@ -7035,7 +7012,6 @@
 152C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\error-overlay\src\components\ErrorOverlay.js134024567185293803 0
 146C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\error-overlay\src\components\Footer.js134024567186384736 0
 146C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\error-overlay\src\components\Header.js134024567190101805 0
-104C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\info134024567093610679 1
 153C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\error-overlay\src\components\NavigationBar.js134024567200257744 0
 138C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\error-overlay\lib\index.js.map134024567203042552 0
 122C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\@parcel\diagnostic\lib134024567199971990 1
@@ -7191,7 +7167,7 @@
 133C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\.bin\baseline-browser-mapping.cmd134024567233261711 0
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\.bin\browserslist134024567233261711 0
 120C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\.bin\detect-libc.cmd134024567233261711 0
-88C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\dist\index.html134024662673611807 0
+88C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\dist\index.html134072848370526167 0
 120C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\.bin\detect-libc.ps1134024567233261711 0
 128C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\.bin\download-lmdb-prebuilds134024567233284741 0
 132C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\node_modules\.bin\download-lmdb-prebuilds.cmd134024567233284741 0
@@ -7209,16 +7185,3 @@
 117C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\dist\my-parcel-app.59712999.js134024570245049702 0
 128C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.parcel-cache\582c43c847a96184-AssetGraph134024571802049203 0
 109C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.parcel-cache\data.mdb134024570244989696 0
-98C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\config134024567093560700 0
-97C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks134024567093378626 1
-96C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\info134024567093471161 1
-102C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\refs\heads134024567093581135 1
-102C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\b9134024567248186222 1
-141C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\objects\d0\c01a8f757a2cf48dc4cfc95585703127a973b7134024567248056290 0
-119C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\applypatch-msg.sample134024567092027135 0
-116C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\post-update.sample134024567092324329 0
-119C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\pre-applypatch.sample134024567092403428 0
-113C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\pre-push.sample134024567092676784 0
-115C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\pre-rebase.sample134024567092802138 0
-123C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\prepare-commit-msg.sample134024567093008025 0
-121C:\Users\aksha\OneDrive\Desktop\Seneca\Assignments\Sem6\CCP\fragments-ui\my-parcel-app\.git\hooks\push-to-checkout.sample134024567093114460 0

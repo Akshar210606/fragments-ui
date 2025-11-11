@@ -1,55 +1,46 @@
-// src/auth.js
+import {
+  CognitoUserPool,
+  CognitoUser,
+  AuthenticationDetails
+} from 'amazon-cognito-identity-js';
 
-import { UserManager } from 'oidc-client-ts';
-
-const cognitoAuthConfig = {
-  authority: `https://cognito-idp.us-east-1.amazonaws.com/${process.env.AWS_COGNITO_POOL_ID}`,
-  client_id: process.env.AWS_COGNITO_CLIENT_ID,
-  redirect_uri: process.env.OAUTH_SIGN_IN_REDIRECT_URL,
-  response_type: 'code',
-  scope: 'phone openid email',
-  // no revoke of "access token" (https://github.com/authts/oidc-client-ts/issues/262)
-  revokeTokenTypes: ['refresh_token'],
-  // no silent renew via "prompt=none" (https://github.com/authts/oidc-client-ts/issues/366)
-  automaticSilentRenew: false,
+const poolData = {
+  UserPoolId: import.meta.env.REACT_APP_USER_POOL_ID,
+  ClientId: import.meta.env.REACT_APP_CLIENT_ID,
 };
 
-// Create a UserManager instance
-const userManager = new UserManager({
-  ...cognitoAuthConfig,
-});
+const userPool = new CognitoUserPool(poolData);
 
-export async function signIn() {
-  // Trigger a redirect to the Cognito auth page, so user can authenticate
-  await userManager.signinRedirect();
+export function login() {
+  const domain = import.meta.env.REACT_APP_COGNITO_DOMAIN;
+  const redirect = import.meta.env.OAUTH_SIGN_IN_REDIRECT_URL;
+  const clientId = import.meta.env.REACT_APP_CLIENT_ID;
+
+  window.location.href =
+    `${domain}/login?response_type=code&client_id=${clientId}&redirect_uri=${redirect}`;
 }
 
-// Create a simplified view of the user, with an extra method for creating the auth headers
-function formatUser(user) {
-  console.log('User Authenticated', { user });
-  return {
-    // If you add any other profile scopes, you can include them here
-    username: user.profile['cognito:username'],
-    email: user.profile.email,
-    idToken: user.id_token,
-    accessToken: user.access_token,
-    authorizationHeaders: (type = 'application/json') => ({
-      'Content-Type': type,
-      Authorization: `Bearer ${user.id_token}`,
-    }),
-  };
+export function logout() {
+  const domain = import.meta.env.REACT_APP_COGNITO_DOMAIN;
+  const redirect = import.meta.env.OAUTH_SIGN_IN_REDIRECT_URL;
+  const clientId = import.meta.env.REACT_APP_CLIENT_ID;
+
+  window.location.href =
+    `${domain}/logout?client_id=${clientId}&logout_uri=${redirect}`;
 }
 
-export async function getUser() {
-  // First, check if we're handling a signin redirect callback (e.g., is ?code=... in URL)
-  if (window.location.search.includes('code=')) {
-    const user = await userManager.signinCallback();
-    // Remove the auth code from the URL without triggering a reload
-    window.history.replaceState({}, document.title, window.location.pathname);
-    return formatUser(user);
-  }
+export function getUser() {
+  return userPool.getCurrentUser();
+}
 
-  // Otherwise, get the current user
-  const user = await userManager.getUser();
-  return user ? formatUser(user) : null;
+export async function getUserToken() {
+  const user = getUser();
+  if (!user) return null;
+
+  return new Promise((resolve, reject) => {
+    user.getSession((err, session) => {
+      if (err) reject(err);
+      else resolve(session.getIdToken().getJwtToken());
+    });
+  });
 }

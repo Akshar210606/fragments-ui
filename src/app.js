@@ -1,35 +1,24 @@
-// src/app.js
+import { login, logout, getUser } from './auth.js';
+import { showUser, showLoggedOut, updateList } from './ui.js';
+import { listFragments, createFragment } from './fragments.js';
 
-import { signIn, getUser } from './auth';
+document.getElementById('login').onclick = login;
+document.getElementById('logout').onclick = logout;
 
-import { getUserFragments } from './api';
+document.getElementById('create').onclick = async () => {
+  const type = document.getElementById('type').value;
+  const content = document.getElementById('content').value;
+  await createFragment(type, content);
+  alert('Fragment Created!');
+};
 
-async function init() {
-  // Get our UI elements
-  const userSection = document.querySelector('#user');
-  const loginBtn = document.querySelector('#login');
+document.getElementById('refresh').onclick = async () => {
+  const data = await listFragments();
+  updateList(data.fragments);
+};
 
-  // Wire up event handlers to deal with login and logout.
-  loginBtn.onclick = () => {
-    // Sign-in via the Amazon Cognito Hosted UI (requires redirects), see:
-    signIn();
-  };
-
-  // See if we're signed in (i.e., we'll have a `user` object)
+(async () => {
   const user = await getUser();
-  if (!user) {
-    return;
-  }
-
-  // Update the UI to welcome the user
-  userSection.hidden = false;
-
-  // Show the user's username
-  userSection.querySelector('.username').innerText = user.username;
-
-  // Disable the Login button
-  loginBtn.disabled = true;
-}
-
-// Wait for the DOM to be ready, then start the app
-addEventListener('DOMContentLoaded', init);
+  if (user) showUser(user.username);
+  else showLoggedOut();
+})();
