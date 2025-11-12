@@ -1,46 +1,51 @@
-import {
-  CognitoUserPool,
-  CognitoUser,
-  AuthenticationDetails
-} from 'amazon-cognito-identity-js';
+// src/auth.js
 
-const poolData = {
-  UserPoolId: import.meta.env.REACT_APP_USER_POOL_ID,
-  ClientId: import.meta.env.REACT_APP_CLIENT_ID,
-};
+// === Your Cognito Hosted UI configuration ===
+const domain = "us-east-1ov4f5m5t2.auth.us-east-1.amazoncognito.com";
+const clientId = "7tugjqis2m9jqalm2gmmkgjrr1";
+const redirectUri = "http://localhost:1234";
+const logoutUri = "http://localhost:1234";
 
-const userPool = new CognitoUserPool(poolData);
+// === Construct login/logout URLs ===
+const cognitoAuthUrl = `https://${domain}/login?client_id=${clientId}&response_type=token&scope=openid+email+profile&redirect_uri=${redirectUri}`;
+const cognitoLogoutUrl = `https://${domain}/logout?client_id=${clientId}&logout_uri=${logoutUri}`;
 
+// === Redirect to Cognito Hosted UI ===
 export function login() {
-  const domain = import.meta.env.REACT_APP_COGNITO_DOMAIN;
-  const redirect = import.meta.env.OAUTH_SIGN_IN_REDIRECT_URL;
-  const clientId = import.meta.env.REACT_APP_CLIENT_ID;
-
-  window.location.href =
-    `${domain}/login?response_type=code&client_id=${clientId}&redirect_uri=${redirect}`;
+  console.log("Redirecting to:", cognitoAuthUrl);
+  window.location.href = cognitoAuthUrl;
 }
 
+// === Logout and clear token ===
 export function logout() {
-  const domain = import.meta.env.REACT_APP_COGNITO_DOMAIN;
-  const redirect = import.meta.env.OAUTH_SIGN_IN_REDIRECT_URL;
-  const clientId = import.meta.env.REACT_APP_CLIENT_ID;
-
-  window.location.href =
-    `${domain}/logout?client_id=${clientId}&logout_uri=${redirect}`;
+  localStorage.removeItem("idToken");
+  localStorage.removeItem("user");
+  window.location.href = cognitoLogoutUrl;
 }
 
+// === Parse token from URL after login ===
+export function getUserToken() {
+  const hash = window.location.hash;
+  if (hash.includes("id_token")) {
+    const token = new URLSearchParams(hash.substring(1)).get("id_token");
+    localStorage.setItem("idToken", token);
+    window.history.replaceState({}, document.title, "/");
+    return token;
+  }
+  return localStorage.getItem("idToken");
+}
+
+// === Decode user info ===
 export function getUser() {
-  return userPool.getCurrentUser();
-}
+  const token = getUserToken();
+  if (!token) return null;
 
-export async function getUserToken() {
-  const user = getUser();
-  if (!user) return null;
-
-  return new Promise((resolve, reject) => {
-    user.getSession((err, session) => {
-      if (err) reject(err);
-      else resolve(session.getIdToken().getJwtToken());
-    });
-  });
+  try {
+    const payload = JSON.parse(atob(token.split(".")[1]));
+    const user = { email: payload.email, name: payload.name };
+    localStorage.setItem("user", JSON.stringify(user));
+    return user;
+  } catch {
+    return null;
+  }
 }

@@ -1,31 +1,18 @@
 // src/api.js
 
-// fragments microservice API to use, defaults to localhost:8080 if not set in env
-const apiUrl = process.env.API_URL || 'http://localhost:8080';
+// Use your EC2 fragments API URL
+export const API_URL = "http://ec2-52-206-187-39.compute-1.amazonaws.com:8080";
 
 /**
- * Given an authenticated user, request all fragments for this user from the
- * fragments microservice (currently only running locally). We expect a user
- * to have an `idToken` attached, so we can send that along with the request.
+ * Helper to make authenticated requests
  */
-export async function getUserFragments(user) {
-  console.log('Requesting user fragments data...');
-  try {
-    const fragmentsUrl = new URL('/v1/fragments', apiUrl);
-    const res = await fetch(fragmentsUrl, {
-      headers: user.authorizationHeaders(),
-    });
+export async function apiRequest(path, options = {}) {
+  const token = localStorage.getItem("idToken");
+  const headers = options.headers || {};
 
-    if (!res.ok) {
-      // Non-2xx response: throw so we hit the catch block
-      throw new Error(`GET /v1/fragments failed: ${res.status} ${res.statusText}`);
-    }
-
-    const data = await res.json();
-    console.log('Successfully got user fragments data', { data });
-    return data;
-  } catch (err) {
-    console.error('Unable to call GET /v1/fragments:', err.message || err);
-    return null; // so callers don’t crash
+  if (token) {
+    headers["Authorization"] = `Bearer ${token}`;
   }
+
+  return fetch(`${API_URL}${path}`, { ...options, headers });
 }
